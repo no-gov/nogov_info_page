@@ -1,0 +1,9 @@
+{
+  "name": "drupal/nogov_page",
+  "type": "drupal-module",
+  "description": "Provides Page content type",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/no-gov",
+  "require": { }
+}
