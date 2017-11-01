@@ -1,5 +1,5 @@
 {
-  "name": "drupal/nogov_page",
+  "name": "no-gov/nogov_page",
   "type": "drupal-module",
   "description": "Provides Page content type",
   "keywords": ["Drupal"],
