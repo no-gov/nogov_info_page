@@ -3,3 +3,13 @@ type: module
 description: Provides Page content type
 core: 8.x
 package: noGov
+
+dependencies:
+  - node
+  - ckeditor
+  - menu_ui
+  - text
+  - datetime
+  - options
+  - user
+  - path
